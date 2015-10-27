@@ -1,0 +1,55 @@
+Programación Orientada a Objetos
+
+Introducción
+Si bien, sabemos que la tecnología ha avanzado de manera muy rápida, mas sin embargo la evolución del software en comparación con el hardware ha sido muy lento, ya que al momento de desarrollar software es frecuente no entregarlo en el tiempo  especificado, su costo es muy elevado, no es muy eficiente,no cumple con los requerimientos,etc. Debido a la existencia de los problemas esencialesdel software tantolos accidentales, para esto se han intentado crear técnicas, herramientas capaces de eliminarlos, ejemplo de estas son la creación de la ingeniería de software y demás herramientas.
+El surgimiento de los lenguajes de alto nivel y los diferentes tipos de programación, nos han ayudado abundantemente a hacer el trabajo más sencillo, rápido y productivo.
+Como un intento de eliminar la complejidad del software nace la Programación Orientada a Objetos (POO) aproximadamente por los años 70; Todo esto con la ayuda del paradigma orientado a objetos, una forma de representar y manipular el conocimiento.
+Una forma especial de programar más cercana a como expresaríamos las cosas en la vida cotidiana.
+En el mundo real podemos apreciar que prácticamente todo se compone de objetos ejemplo de esto son una casa, lápiz, computadora, auto, etc. Si juntamos dos o más de los objetos mencionados serán distintos en color tal vez, en su aspecto físico, sin embargo siguen poseyendo características comunes, las cuales al pensarlos son objetos y dividimos en tipos o clases.
+ 
+Desarrollo
+Y ¿Qué es la programación orientada a objetos? Es un paradigma de programación que define los programas en términos de clases de objeto, que son entidades que combinan estados y comportamientos para realizar tareas.
+Los objetos tienen atributos los cuales los diferencia de los pertenecientes a otra clase y métodos por los cuales se comunican ya sea dentro de la misma clase u otra produciendo un cambio de estado en los objetos.
+La POO sin duda tiene una gran capacidad para la creación de interfaces gráficas de usuario, la POO está pensada para hacer programas más fáciles de escribir, mantener y reutilizar.
+Los elementos básicos dentro de la POO son:
+Objeto, como pudimos darnos cuenta son la unidad básica de construcción, la instancia de una clase; un conjunto de propiedades o atributos (datos) y de comportamiento o funcionalidad (métodos), los mismos que consecuentemente reaccionan a eventos.
+Clase es la generalización de objetos específicos, su conjunto de características y comportamientos que los componen.
+Métodoestá asociado a un objeto cuya ejecución se realiza tras haber recibido un mensaje, al igual puede enviar mensajes a otros objetos.
+Mensaje la parte más importante, la comunicación entre objetos que hace se ejecute uno de sus métodos.
+Dentro de las características principales están: 
+Herenciauna estructura jerárquica de las clases, para compartir los métodos y datos entre las que guardan una relación, los objetos heredan las propiedades y los métodos; Cuando un objeto hereda de más de una clase se dice que hayherencia múltiple.
+Abstracción es el proceso mediante el cual representamos entidades reales como elementos internos de un programa, extrayendo las características esenciales y sus comportamientos.
+Encapsulamiento protege a los datos de los objetos, para que no puedan ser modificados por quien no tiene derechos para hacerlo; oculta su estructura externa, llevar a todas las entidades a un mismo nivel de abstracción.
+Polimorfismo es la característica de definir las mismas operaciones con diferentes comportamientos en diferentes clases.
+Para llevar a cabo el proceso de desarrollo existen los lenguajes de programación orientados a objetos, entre estos destacan:
+	Simula en 1967 aceptado como el primer lenguaje que posee las características de la POO.
+	Smalltalk descendiente de simula, este generaliza el concepto de objetos.
+	Ada
+	C++
+	C#
+	Java
+	Eiffel
+	JavaScript
+	PHP
+	Python
+	Ruby
+	Visual Basic 6.0
+La Programación Orientada a Objetos (POO) en comparación con la programación estructurada, que se ejecuta de manera secuencial paso a paso y una lógica muy buena para su eficiente ejecución como ventaja tiene:
+	La reutilización y extensión de código 
+	Agiliza el desarrollo del software
+	Encapsulamiento de datos
+	Elimina la jerarquía del uso de apuntadores
+	Facilidad para el desarrollo de prototipos
+Sus desventajas abarcan:
+	Detectar errores de manera más compleja
+	Estructura menos legible
+De acuerdo al lenguaje Java se criticaba la falta de tipos genéricos  en comparación con los templates de C++.
+ 
+
+Conclusión
+Existen varios lenguajes de alto nivel que han surgido para terminar con esos errores accidentales como lo son errores de sintaxis, sin embargo la programación orientada a objetos (POO) un lenguaje dinámico representa un gran avance en la programación ya que mejora un aumento en la productividad del programador, como la fluidez y sencillez del programa.
+Su plus es porque proporciona conceptos y herramientas con las cuales se modela, representa la vida real de manera enorme lo cual ayuda al programador a tener una tarea más sencilla.
+La POO nos permite agrupar secciones de código con funcionalidades comunes, se pretende agrupar el código encapsulándolo y haciéndolo independiente, de manera que una modificación debida al crecimiento de la aplicación solo afecte a unas pocas líneas de código.
+La programación orientada a objetos con lo  que es el encapsulamiento de datos nos ayuda mucho ya que nos brinda seguridad, fiabilidad en nuestra información.
+Y sobre todo la herencia que resulta muy útil para que los programadores reutilicen código, sin tener que duplicarlo, lo cual nos lleva a terminar de manera más rápida dejando espacio para un tiempo de prueba de nuestro programa y verificar realmente que hace todo que se quería, un programa de calidad.
+ Sin embargo nada de esto sería posible sin comunicación, la mensajería, el paso de mensajes entre los diferentes métodos para realizar tareas en común.
